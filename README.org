@@ -2,4 +2,9 @@
 
 This project is a sample JavaFX application using Gradle.
 
+** Requirements
+
+ - Java 1.7 or higher
+ - Gradle 1.4 or higher
+
 
