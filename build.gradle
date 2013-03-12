@@ -24,3 +24,7 @@ dependencies {
 //	groovy group: 'org.codehaus.groovy', name: 'groovy-all', version: '2.0.5'
 //	testCompile group: 'org.codehaus.groovy', name: 'groovy-all', version: '2.1.0'
 }
+
+task wrapper(type: Wrapper) {
+	gradleVersion = '1.4'
+}

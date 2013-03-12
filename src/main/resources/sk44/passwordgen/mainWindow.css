@@ -3,5 +3,8 @@
 */
 
 .mainFxmlClass {
+}
 
+.text-field {
+	-fx-font-family: 'Lucida Console', 'monospace';
 }
