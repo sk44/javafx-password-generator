@@ -164,4 +164,7 @@ pip-log.txt
 
 # additional
 /.gradle
+/debug.keyStore
 /*.properties
+/gradle
+/gradlew*
