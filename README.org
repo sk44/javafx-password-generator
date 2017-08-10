@@ -1,10 +1,9 @@
 * Overview
 
-This project is a sample JavaFX application using Gradle.
+Random password generator.
 
 ** Requirements
 
- - Java 1.7 or higher
- - Gradle 1.4 or higher
+ - Java 1.8 or higher
 
 
