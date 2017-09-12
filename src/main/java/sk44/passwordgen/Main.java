@@ -28,7 +28,7 @@ public class Main extends Application {
         Scene scene = new Scene((AnchorPane) FXMLLoader.load(getClass().getResource("mainWindow.fxml")));
         primaryStage.setScene(scene);
         primaryStage.setResizable(false);
-        primaryStage.initStyle(StageStyle.UTILITY);
+        primaryStage.initStyle(StageStyle.DECORATED);
         primaryStage.show();
     }
 }
